@@ -1,1 +1,4 @@
 package-as: SimpleJumpCounter
+
+plain-copy:
+  - "*.lua"
