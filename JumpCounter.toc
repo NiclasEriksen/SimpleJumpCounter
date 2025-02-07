@@ -1,5 +1,5 @@
 ## Interface: 11506
-## Title: Jump Counter
+## Title: SimpleJumpCounter
 ## Notes: Records how many times you have jumped. /jumps to view statistics.
 ## X-Curse-Project-ID: 1195491
 ## DefaultState: Enabled
