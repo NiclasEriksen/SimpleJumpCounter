@@ -8,4 +8,4 @@
 ## SavedVariables:
 ## SavedVariablesPerCharacter: JumpCounterDB
 
-JumpCounter.lua
+SimpleJumpCounter.lua
